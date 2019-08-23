@@ -1,16 +1,15 @@
 ## Hello World
 
-I'm using the [editor on GitHub](https://github.com/season246/season246/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+非常激动，有机会写了一个hello world。
 
 
-### Sarah Mo's Public Blog for How-Tos
-
-**I want to learn for the following typographical conventions:**
-In this blog, I'll share the following tips:
-- to use a markdown
-- to use Github
-- to publish a blog
-
+#第一次使用GitHub和Markdown工具生成自己的博客
+这是我第一次用GitHub生成自己的博客空间，非同一般的体验~
+今天我学习了在GitHub上创建自己的repository，branch，然后创建文件，commit change等。
+Markdown的工具我用的是VS Code
+我学习了如何将Markdown与GitHub连接
+这是GitHub自动帮我生成的网页，一个我专属的网页
+第二步我将学习更多，如插入图片等 
 
 
 
