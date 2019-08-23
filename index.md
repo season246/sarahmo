@@ -13,5 +13,9 @@ Markdown的工具我用的是VS Code
 第二步我将学习更多，如插入图片等 
 
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 
 
