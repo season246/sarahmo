@@ -1,9 +1,10 @@
 ## Hello World
 
-非常激动，有机会写了一个hello world。
+非常激动，有机会写了一个*hello world*。
 
 
-#第一次使用GitHub和Markdown工具生成自己的博客
+## 第一次使用GitHub和Markdown工具生成自己的博客
+
 这是我第一次用GitHub生成自己的博客空间，非同一般的体验~
 今天我学习了在GitHub上创建自己的repository，branch，然后创建文件，commit change等。
 Markdown的工具我用的是VS Code
